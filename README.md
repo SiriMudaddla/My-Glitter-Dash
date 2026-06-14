@@ -99,5 +99,4 @@ GitHub: https://github.com/SiriMudaddla
 
 ---
 
-If you like this project, consider giving it a ⭐ on GitHub!
 
